@@ -5,234 +5,236 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94199e82-6ad3-41cc-8d6f-a02002130976" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/404.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README-jp.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README-pt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/conf/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/conf/others.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/conf/posts.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/const/contact.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/const/share.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/content/projects/en.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/content/projects/ja.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/content/projects/pt.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/lang/en.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/lang/ja.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/lang/pt.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/owner/en.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/owner/ja.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/owner/pt.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/cookie-consent-bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/cookie-consent-settings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/copyright-text.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/css-include.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/disqus-scripts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/google-analytics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/google-consent-init.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/header/google-font-load.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/header/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/header/meta-common-data.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/header/meta-hreflang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/header/meta-mobile-app.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/header/meta-open-graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/header/meta-schema-markup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/header/meta-twitter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/img/get-img-path.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/img/img-path-converter.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/img/set-img-loader-viewer.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/nav/color-scheme-switch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/nav/contact-links.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/nav/cookie-settings-button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/nav/lang-switch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/nav/navigation-buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/nav/navigation-side-nav-bottom-buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/nav/navigation-side-nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/nav/navigation-top-nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/scripts-include.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/search-scripts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/sliding-msg-box.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/default/youtube-video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/json/post-query-data.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/json/remove-last-comma.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/json/search-data.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/multi_lng/get-lng-by-url.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/multi_lng/get-lng-code.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/multi_lng/get-localized-long-date-format.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/multi_lng/get-page-by-layout.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/multi_lng/get-page-by-lng-pair-and-lng.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/multi_lng/get-pages-by-lng-pair.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/multi_lng/get-pages-by-lng.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/multi_lng/lang-offer-msg-box.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post-list/post-custom-excerpt.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post-list/post-thumbnail-data.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post-list/post-thumbnail-html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post-list/tab-links.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post-list/upside-down-tabs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post/disqus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post/table-of-contents.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post_common/pager-page-number-links.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post_common/pager-page-numbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post_common/pager-prev-next-buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post_common/post-info-data.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post_common/post-info-html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post_common/post-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post_common/share.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/util/auto-content-generator.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/util/auto-content-post-title-rename.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/archives.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/home.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/json/manifest.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/json/post-query.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/json/search.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/links.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/not-found.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/post-list.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/privacy-policy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/projects.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/redirect.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/robot.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/util/compress.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/util/compress_js.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/xml/browserconfig.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/xml/sitemap.liquid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-10-Test-page1.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-11-Test-page2.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-09-12-Test-page3.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-09-13-Test-page4.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-10-14-Test-page5.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-10-15-Test-page6.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2022-01-01-welcome-to-jekyll.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2022-03-03-mr-green-jekyll-theme.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/about/about-contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/about/about-style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/archives/archives.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/colors/bootstrap-dark-colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/colors/dark-colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/colors/light-colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/colors/scheme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/common/button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/common/close-button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/common/contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/common/markdown-style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/common/multipurpose-button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/common/pager.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/common/post-info.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/common/slide-switch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/body-main-styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/cookie-consent.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/footer-fixed-ext.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/hover-ext.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/multipurpose-container.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/nav/color-scheme-switch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/nav/cookie-settings-button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/nav/lang-switch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/nav/navigation-buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/nav/navigation-side-nav-bottom-buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/nav/navigation-top-collapse.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/nav/navigation-top-side-nav-toggle.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/nav/navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/scroll-to-top.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/searchbox.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/searchresult.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/default/sliding-msg-box.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/home/home-heading.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/home/new-posts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/links/link-style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/post-list/thumbnails.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/post-list/upside-down-tabs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/post/share.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/post/table-of-contents.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/_scss/projects/project-container.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-toc.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/nav-media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/default/03DD8A8B-BA28-40FD-A0D6-86CE11595B78.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/default/1x1px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/default/cc/by.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/default/cc/cc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/default/cc/nc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/default/cc/nd.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/default/cc/sa.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicons/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicons/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicons/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicons/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/home/home-heading.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/mock1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/post_pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/post_pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/post_pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/projects/project1_thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/projects/project2_thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/projects/projects-heading.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/default/check-storage-availability.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/default/cookie-consent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/default/lang-offer-msg-box.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/default/nav/close-top-nav-on-outside-click.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/default/nav/color-scheme-switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/default/nav/side-nav-toggle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/default/scroll-to-top.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/default/set-email.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/default/show-tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/default/sliding-msg-box.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/default/tooltip-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/home/heading-fade-in.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/links/open-url-in-new-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/post-list/post-query.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/post-list/upside-down-tabs-slide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/post/copy-to-clipboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/post/movable-panels.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/post/table-of-contents-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/post_common/pager-page-numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/_js/projects/read-more-less.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap-toc.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/color-scheme-attr-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/lozad.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/simple-jekyll-search-1.9.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/privacy-policy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/query/post-query.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/query/search.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs/archive.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs/links.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs/projects.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README-jp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README-pt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-10-17-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/conf/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/conf/others.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/conf/posts.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/const/contact.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/const/share.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/content/projects/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/content/projects/ja.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/content/projects/pt.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/lang/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/lang/ja.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/lang/pt.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/owner/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/owner/ja.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/owner/pt.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/cookie-consent-bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/cookie-consent-settings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/copyright-text.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/css-include.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/disqus-scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/google-analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/google-consent-init.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/header/google-font-load.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/header/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/header/meta-common-data.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/header/meta-hreflang.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/header/meta-mobile-app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/header/meta-open-graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/header/meta-schema-markup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/header/meta-twitter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/img/get-img-path.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/img/img-path-converter.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/img/set-img-loader-viewer.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/nav/color-scheme-switch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/nav/contact-links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/nav/cookie-settings-button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/nav/lang-switch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/nav/navigation-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/nav/navigation-side-nav-bottom-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/nav/navigation-side-nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/nav/navigation-top-nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/scripts-include.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/search-scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/sliding-msg-box.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/default/youtube-video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/json/post-query-data.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/json/remove-last-comma.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/json/search-data.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/multi_lng/get-lng-by-url.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/multi_lng/get-lng-code.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/multi_lng/get-localized-long-date-format.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/multi_lng/get-page-by-layout.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/multi_lng/get-page-by-lng-pair-and-lng.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/multi_lng/get-pages-by-lng-pair.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/multi_lng/get-pages-by-lng.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/multi_lng/lang-offer-msg-box.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-list/post-custom-excerpt.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-list/post-thumbnail-data.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-list/post-thumbnail-html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-list/tab-links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-list/upside-down-tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post/disqus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post/table-of-contents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post_common/pager-page-number-links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post_common/pager-page-numbers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post_common/pager-prev-next-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post_common/post-info-data.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post_common/post-info-html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post_common/post-main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post_common/share.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/util/auto-content-generator.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/util/auto-content-post-title-rename.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/archives.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/json/manifest.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/json/post-query.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/json/search.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/not-found.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post-list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/privacy-policy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/projects.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/redirect.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/robot.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/util/compress.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/util/compress_js.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/xml/browserconfig.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/xml/sitemap.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-08-10-Test-page1.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-08-11-Test-page2.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-12-Test-page3.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-13-Test-page4.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-10-14-Test-page5.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-10-15-Test-page6.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-01-01-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-03-03-mr-green-jekyll-theme.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/_README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/about/about-contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/about/about-style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/archives/archives.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/colors/bootstrap-dark-colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/colors/dark-colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/colors/light-colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/colors/scheme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/common/button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/common/close-button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/common/contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/common/markdown-style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/common/multipurpose-button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/common/pager.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/common/post-info.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/common/slide-switch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/body-main-styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/cookie-consent.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/footer-fixed-ext.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/hover-ext.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/multipurpose-container.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/nav/color-scheme-switch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/nav/cookie-settings-button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/nav/lang-switch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/nav/navigation-buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/nav/navigation-side-nav-bottom-buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/nav/navigation-top-collapse.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/nav/navigation-top-side-nav-toggle.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/nav/navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/scroll-to-top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/searchbox.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/searchresult.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/default/sliding-msg-box.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/home/home-heading.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/home/new-posts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/links/link-style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/post-list/thumbnails.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/post-list/upside-down-tabs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/post/share.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/post/table-of-contents.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/projects/project-container.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap-toc.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/nav-media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/default/03DD8A8B-BA28-40FD-A0D6-86CE11595B78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/default/1x1px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/default/cc/by.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/default/cc/cc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/default/cc/nc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/default/cc/nd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/default/cc/sa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/android-chrome-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/mstile-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/home/home-heading.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/posts/mock1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/posts/post_pic1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/posts/post_pic2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/posts/post_pic3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/projects/project1_thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/projects/project2_thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/projects/projects-heading.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/default/check-storage-availability.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/default/cookie-consent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/default/lang-offer-msg-box.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/default/nav/close-top-nav-on-outside-click.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/default/nav/color-scheme-switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/default/nav/side-nav-toggle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/default/scroll-to-top.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/default/set-email.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/default/show-tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/default/sliding-msg-box.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/default/tooltip-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/home/heading-fade-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/links/open-url-in-new-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/post-list/post-query.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/post-list/upside-down-tabs-slide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/post/copy-to-clipboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/post/movable-panels.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/post/table-of-contents-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/post_common/pager-page-numbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_js/projects/read-more-less.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap-toc.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/color-scheme-attr-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/lozad.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/simple-jekyll-search-1.9.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-policy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/post-query.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/archive.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/projects.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,119 +262,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ruby.rails.projectView.checked": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/default" />
       <recent name="$PROJECT_DIR$/assets/img/about" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="malamute10.github.io" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="malamute10.github.io" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="malamute10.github.io" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <module name="malamute10.github.io" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="malamute10.github.io" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="malamute10.github.io" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="malamute10.github.io" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -385,6 +293,8 @@
       <workItem from="1666002962586" duration="3568000" />
       <workItem from="1666050389515" duration="81000" />
       <workItem from="1666176298604" duration="198000" />
+      <workItem from="1668838136450" duration="834000" />
+      <workItem from="1668838981624" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1666003021502</created>
@@ -407,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666003696900</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1668838170300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668838170300</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
