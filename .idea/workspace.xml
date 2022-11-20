@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94199e82-6ad3-41cc-8d6f-a02002130976" name="Changes" comment="change theme">
+    <list default="true" id="94199e82-6ad3-41cc-8d6f-a02002130976" name="Changes" comment="설정 진행중">
+      <change afterPath="$PROJECT_DIR$/_posts/2022-11-20-test-page.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
@@ -40,6 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/hongtaeho/malamute10.github.io/_posts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +51,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/default" />
       <recent name="$PROJECT_DIR$/assets/img/about" />
@@ -67,6 +72,8 @@
       <workItem from="1666176298604" duration="198000" />
       <workItem from="1668838136450" duration="834000" />
       <workItem from="1668838981624" duration="856000" />
+      <workItem from="1668919360672" duration="136000" />
+      <workItem from="1668923678309" duration="1476000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1666003021502</created>
