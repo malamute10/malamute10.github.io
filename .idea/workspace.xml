@@ -5,57 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94199e82-6ad3-41cc-8d6f-a02002130976" name="Changes" comment="설정 진행중">
-      <change afterPath="$PROJECT_DIR$/assets/img/favicons/safari-pinned-tab.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README-jp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README-pt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/conf/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/conf/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/owner/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/owner/en.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicons/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/android-chrome-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicons/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/android-chrome-512x512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicons/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicons/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicons/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicons/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/mstile-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/home/home-heading.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/home/home-heading.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/404.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/_posts/2021-08-10-Test-page1.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/_posts/2021-08-11-Test-page2.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/_posts/2021-09-12-Test-page3.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/_posts/2021-09-13-Test-page4.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/_posts/2021-10-14-Test-page5.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/_posts/2021-10-15-Test-page6.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/_posts/2022-03-03-mr-green-jekyll-theme.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/_posts/_README-jp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/privacy-policy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/query/post-query.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/query/search.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/tabs/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/tabs/archive.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/tabs/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/tabs/links.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ja/tabs/projects.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/default/profile_pic.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/404.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/_posts/2021-08-10-Test-page1.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/_posts/2021-08-11-Test-page2.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/_posts/2021-09-12-Test-page3.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/_posts/2021-09-13-Test-page4.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/_posts/2021-10-14-Test-page5.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/_posts/2021-10-15-Test-page6.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/_posts/2022-10-01-mr-green-jekyll-theme.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/_posts/_README-pt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/privacy-policy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/query/post-query.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/query/search.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/tabs/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/tabs/archive.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/tabs/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/tabs/links.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pt/tabs/projects.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-08-10-Test-page1.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-08-11-Test-page2.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-12-Test-page3.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-13-Test-page4.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-10-14-Test-page5.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-10-15-Test-page6.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-12-20-싱글톤 패턴.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-01-01-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/xinapse/hwacha/malamute10.github.io/assets/img/favicons",
+    "last_opened_file_path": "/Users/xinapse/hwacha/malamute10.github.io/_posts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,9 +59,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/img/favicons" />
       <recent name="$PROJECT_DIR$/assets/img/home" />
-      <recent name="$PROJECT_DIR$/_posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/default" />
@@ -126,7 +84,13 @@
       <workItem from="1668919360672" duration="136000" />
       <workItem from="1668923678309" duration="2397000" />
       <workItem from="1668984648609" duration="742000" />
-      <workItem from="1669155436825" duration="2151000" />
+      <workItem from="1669155436825" duration="2761000" />
+      <workItem from="1669164223780" duration="1841000" />
+      <workItem from="1669240309080" duration="879000" />
+      <workItem from="1669248235850" duration="490000" />
+      <workItem from="1669327422002" duration="25000" />
+      <workItem from="1670823226442" duration="762000" />
+      <workItem from="1671488851147" duration="2161000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1666003021502</created>
@@ -184,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668985320806</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="설정 진행중">
+      <created>1669157847254</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669157847254</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

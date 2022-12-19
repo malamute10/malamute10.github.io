@@ -1,0 +1,130 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_Mr_Green_Jekyll_Theme
+title: 싱글톤  패턴
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: Mr. Green's Workshop
+# multiple category is not supported
+category: Design Pattern
+# multiple tag entries are possible
+tags: [Design Pattern, SingleTon]
+# thumbnail image for post
+img: ":mock1.jpg"
+# disable comments on this page
+#comments_disable: true
+
+# publish date
+date: 2022-12-20 08:06:10 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-12-20 08:06:10 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+# 싱글톤 패턴 (Singleton Pattern)
+인스턴스를 클래스당 한개만 생성하여 어느 곳에서든 같은 인스턴스를 사용하게 하는 패턴이다.
+
+### Example
+예를 들어 회사에 프린터기가 한대만 있다고 하면, 여러명의 사람들이 한대의 프린터를 공유해 사용하게될 것이고
+코드로 나타내면 아래와 같이 나타낼 수 있다.
+ ```java
+ public class Printer {
+ 
+    private Printer printer;
+    
+    private Printer(){} //생성자를 외부에서 호출하지 못하게 숨김
+    
+    public static Printer getInstance() {
+        if(this.printer == null){
+            this.printer = new Printer();
+        }
+        return this.printer;
+    }
+ }
+ ```
+Printer라는 클래스는 외부에서 새로운 인스턴스를 생성하지 못하게 생성자를 내부에 감추고<br> getInstance라는 메소드를 통해 이미 생성된 인스턴스를 이용하게 된다.
+
+### 특징
+인스턴스를 한개만 사용해 이용하게 된다면 메모리 측면에서 절약을 할 수 있게 되며,<br> 여러 곳에서 같은 인스턴스를 이용하므로 데이터를 공유 할 수 있다는 측면이 있다. <br>
+하지만 단점도 명확한데 <br>
+멀티쓰레드 환경에서 동시에 싱글톤 객체의 인스턴스에 접근하려는 경우 여러개의 인스턴스가 생성될 가능성이 존재한다. <br>
+데이터를 공유하므로 테스트시 객체를 초기화해야한다는 불편함이 존재한다.<br>
+private 생성자를 사용하므로 상속이 어렵다.<br>
+Anti-Pattern 이라 불리며 유연성이 떨어진다.
+
+#### MultiThread 환경에서의 해결방안
+
+1. ~Double Checked Locking (DCL)~ <br>
+미사용 권고
+
+2. Eager Initialization
+   ```java
+    public class Printer {
+    
+       private static final Printer instance = new Printer();
+       
+       private Printer(){}
+       
+       public static Printer getInstance() {
+           return this.instance;
+       }
+    }
+    ```
+   - 이른 초기화 방식으로 프로그램 실행 시, 클래스 로딩 시점에 인스턴스를 생성하는 방식이다.<br>
+   - 인스턴스 생성시점이 프로그램 실행 시점이므로 여러개의 인스턴스가 생성될 가능성이 없다.<br>
+   - 사용하지 않아도 미리 생성되므로 메모리를 점유하고있어 메모리 누수가 발생 할 수 있다.<br>
+
+3. Lazy Initialization + synchronized
+   맨위에 적혀있는 코드는 Lazy Initialization 이지만 Thread-safe 하지 않기 때문에
+   ```java
+    public class Printer {
+    
+       private Printer printer;
+       
+       private Printer(){}
+       
+       public static synchronized Printer getInstance() { // Thread-safe
+           if(this.printer == null){
+               this.printer = new Printer();
+           }
+           return this.printer;
+       }
+    }
+    ```
+   위와 같이 getInstance 메소드에 synchronized 를 추가하여 Thread-safe 하게 사용할 수 있다.<br>
+   하지만 Thread-safe함을 유지하기 위해 다른 Thread에서의 접근을 막아동기화 오버헤드가 많이 발생하여 성능이 저하되는 단점이 있다.<br> 
+
+4. LazyHolder
+
+   ```java
+    public class Printer {
+       
+       private Printer(){}
+       
+       public static Printer getInstance() {
+           return LazyHolder.INSTANCE;
+       }
+       
+       private static class LazyHolder {
+           private static final Printer INSTACNE = new Printer();
+       }
+    }
+    ```
+   싱글톤 내부에 LazyHolder class를 이용해 getInstance 메소드를 불러올 때에만 인스턴스를 생성하게 되는데, <br>
+   LazyHolder class가 로딩되는 과정에서 static한 인스턴스를 생성하기 때문에 별도의 동기화 처리를 하지 않아도 Thread-safe한 방식이 된다.
